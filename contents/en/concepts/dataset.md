@@ -154,7 +154,6 @@ option = {
 };
 ```
 
-The effect of configuration is shown in [this case](${exampleEditorPath}dataset-series-layout-by).
 
 ## Dimension
 
